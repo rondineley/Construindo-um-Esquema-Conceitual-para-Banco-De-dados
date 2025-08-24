@@ -1,1 +1,1 @@
-# Construindo-um-Esquema-Conceitual-para-Banco-De-dados
+# Esquema-Conceitual-para-Banco-De-dados
